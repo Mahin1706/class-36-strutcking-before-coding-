@@ -1,1 +1,2 @@
-# class-36-strutcking-before-coding-
+# synchronousBallMovement
+Ball moving synchronously
